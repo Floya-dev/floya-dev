@@ -1,6 +1,6 @@
 ## Hi, I'm Floya
 
-☕ cappuccino enjoyer
-✨ arch linux on a thinkpad user
-⚔️ cyber security student
-📜 certs: ccna1
+☕ cappuccino enjoyer <br>
+✨ arch linux on a thinkpad user <br>
+⚔️ cyber security student <br>
+📜 certs: ccna1 <br>
