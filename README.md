@@ -7,4 +7,4 @@
 
 ---
 
-For more, check out my [portfolio](https://floya-dev.github.io/floyaWebsiteSelf/) 👈
+For more, check out my [portfolio](https://floya.dev) 👈
