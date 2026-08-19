@@ -31,6 +31,7 @@ Red Teaming · Web Development · Linux & FOSS
 **Certs**
 
 CCNA 1 · CCNA 2 · Linux Unhatched · Introduction to Cybersecurity
+
 _Working toward:_ CCNA 3 · Security+ · Ethical Hacker
 
 </td>
