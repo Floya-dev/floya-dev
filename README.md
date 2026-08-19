@@ -58,34 +58,6 @@ _Working toward:_ CCNA 3 · Security+ · Ethical Hacker
 
 <div align="center">
 
-<a href="https://github.com/Floya-dev">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Floya-dev&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=8b949e&title_color=e6edf3&text_color=8b949e&count_private=true" />
-</a>
-&nbsp;
-<a href="https://github.com/Floya-dev">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floya-dev&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e6edf3&text_color=8b949e&langs_count=6" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/Floya-dev/phish-hunter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Floya-dev&repo=phish-hunter&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=8b949e&title_color=e6edf3&description_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/Floya-dev/CyberSecurity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Floya-dev&repo=CyberSecurity&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=8b949e&title_color=e6edf3&description_color=8b949e" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=firefox&logoColor=FF7139)](https://floya-dev.github.io/floyaWebsiteSelf/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/Floya-dev)
